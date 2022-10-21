@@ -1,0 +1,3 @@
+This folder is intentionally created
+
+Here our video, audio, images etc will get downloaded and sent to the user
